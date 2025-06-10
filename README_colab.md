@@ -1,6 +1,6 @@
 # Análisis de Presidentes de Estados Unidos
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/analisis_presidentes_eeuu.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KarlaFdez/Entregable-Data-Science-I/blob/main/ProyectoDS_Parte_l_Fernandez.ipynb)
 
 Este repositorio contiene un análisis exploratorio de datos históricos sobre los presidentes de Estados Unidos. Enfocándose en variables como el partido político, duración del mandato y el cargo previo al asumir la presidencia.
 
