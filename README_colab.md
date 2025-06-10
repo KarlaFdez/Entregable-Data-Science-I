@@ -1,4 +1,4 @@
-# 🇺🇸 Análisis de Presidentes de Estados Unidos
+# Análisis de Presidentes de Estados Unidos
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU_USUARIO/TU_REPOSITORIO/blob/main/analisis_presidentes_eeuu.ipynb)
 
@@ -46,8 +46,8 @@ jupyter notebook analisis_presidentes_eeuu.ipynb
 
 ## 🧾 Notas
 
-Este proyecto es educativo y puede servir como base para estudios de historia política o ciencia de datos aplicada al análisis político.
+Este proyecto es la primer entrega del proyecto final del curso "Data Science I".
 
 ---
 
-Desarrollado por: [Tu Nombre]
+Desarrollado por: Karla Fernández
