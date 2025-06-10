@@ -1,11 +1,11 @@
-# 🇺🇸 Análisis de Presidentes de Estados Unidos
+# Análisis de Presidentes de Estados Unidos
 
 Este repositorio contiene un análisis exploratorio de datos históricos sobre los presidentes de Estados Unidos.
 
 ## 📁 Contenido
 
 - `analisis_presidentes_eeuu.ipynb`: Notebook con análisis completo.
-- `us_presidents.csv`: Dataset con información de presidentes de EE.UU. (debes agregarlo).
+- `us_presidents.csv`: Dataset con información de presidentes de EE.UU.
 - `README.md`: Descripción general del proyecto.
 
 ## 📊 Objetivo
@@ -25,27 +25,11 @@ Se busca responder preguntas como:
 - **Visualizaciones bivariadas**: Boxplot de duración por partido.
 - **Visualización multivariada**: Dispersión de duración vs. cargo previo vs. partido.
 
-## 🚀 Cómo usar
-
-1. Clona este repositorio:
-```bash
-git clone https://github.com/tu_usuario/tu_repositorio.git
-```
-
-2. Asegúrate de tener instalado Jupyter y las librerías necesarias:
-```bash
-pip install jupyter pandas matplotlib seaborn
-```
-
-3. Abre el notebook:
-```bash
-jupyter notebook analisis_presidentes_eeuu.ipynb
-```
 
 ## 🧾 Notas
 
-Este proyecto es educativo y puede servir como base para estudios de historia política o ciencia de datos aplicada al análisis político.
+Este proyecto es la primer entrega del proyecto final del curso "Data Science I".
 
 ---
 
-Desarrollado por: [Tu Nombre]
+Desarrollado por: Karla Julieta Fernández Herrera
