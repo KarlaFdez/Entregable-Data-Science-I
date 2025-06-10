@@ -12,7 +12,7 @@ Este repositorio contiene un análisis exploratorio de datos históricos sobre l
 
 ## 📊 Objetivo
 
-El objetivo principal es explorar la relación entre la duración del mandato presidencial, el partido político y el cargo previo de cada presidente.
+El objetivo principal es explorar la relación entre la duración del mandato presidencial, el partido político y el cargo previo de cada presidente. Así como comprender los patrones históricos, la influencia del cargo previo sobre la duración en el poder y la distribución de partidos a lo largo del tiempo.
 
 Se busca responder preguntas como:
 
