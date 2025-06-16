@@ -27,7 +27,7 @@ Se busca responder preguntas como:
 - **Visualizaciones bivariadas**: Boxplot de duración por partido.
 - **Visualización multivariada**: Dispersión de duración vs. cargo previo vs. partido.
 
-## 🚀 Cómo usar
+## 🚀 Guía de uso para otros usuarios
 
 1. Clona este repositorio:
 ```bash
