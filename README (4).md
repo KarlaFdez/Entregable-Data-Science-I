@@ -1,7 +1,7 @@
 
 # Análisis de Presidentes de los Estados Unidos
 
-Este repositorio contiene un análisis exploratorio de datos sobre los presidentes de los Estados Unidos, utilizando un archivo CSV con información relevante de cada mandato presidencial. El análisis se encuentra desarrollado en el archivo Jupyter Notebook `ProyectoDS_Parte_l_Fernandez_final.ipynb`, el cual se puede ejecutar de manera interactiva en Google Colab.
+Este repositorio contiene un análisis exploratorio de datos sobre los presidentes de los Estados Unidos, utilizando un archivo CSV con información relevante de cada mandato presidencial. El análisis se encuentra desarrollado en el archivo Jupyter Notebook `ProyectoDS_Parte_l_Fernandez_final.ipynb`, el cual se puede ejecutar de manera interactiva en Google Colab (liga más abajo).
 
 ## 📊 Contenido del análisis
 
@@ -42,7 +42,8 @@ Además de los gráficos, se presentan resúmenes estadísticos básicos que des
 
 Haz clic en el siguiente botón para abrir y ejecutar el notebook en Google Colab:
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu_usuario/tu_repositorio/blob/main/ProyectoDS_Parte_l_Fernandez_final.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+([https://colab.research.google.com/github/KarlaFdez/Entregable-Data-Science-I/blob/main/ProyectoDS_Parte_l_Fernandez_final.ipynb])
 
 > **Nota**: Reemplaza `tu_usuario` y `tu_repositorio` con los valores reales de tu cuenta y repositorio de GitHub después de subir los archivos.
 
@@ -56,3 +57,5 @@ Haz clic en el siguiente botón para abrir y ejecutar el notebook en Google Cola
 
 Este proyecto demuestra cómo aplicar técnicas de análisis exploratorio de datos (EDA) para estudiar figuras históricas y extraer información relevante a partir de datos estructurados. Puede ser extendido con más variables (como políticas públicas, desempeño económico o popularidad) para generar estudios más profundos sobre el liderazgo en Estados Unidos.
 
+
+Elaborado por: Karla Fernández
