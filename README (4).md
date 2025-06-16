@@ -40,12 +40,10 @@ Además de los gráficos, se presentan resúmenes estadísticos básicos que des
 
 ## 🚀 Cómo usar este notebook en Google Colab
 
-Haz clic en el siguiente botón para abrir y ejecutar el notebook en Google Colab:
+Haz clic en la siguiente liga para abrir y ejecutar el notebook en Google Colab:
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)]
 ([https://colab.research.google.com/github/KarlaFdez/Entregable-Data-Science-I/blob/main/ProyectoDS_Parte_l_Fernandez_final.ipynb])
-
-> **Nota**: Reemplaza `tu_usuario` y `tu_repositorio` con los valores reales de tu cuenta y repositorio de GitHub después de subir los archivos.
 
 ## 📁 Archivos incluidos
 
