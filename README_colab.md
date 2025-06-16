@@ -6,9 +6,10 @@ Este repositorio contiene un análisis exploratorio de datos históricos sobre l
 
 ## 📁 Contenido
 
-- `analisis_presidentes_eeuu.ipynb`: Notebook con análisis completo.
+- `ProyectoDS_Parte_l_Fernandez.ipynb`: Notebook con análisis completo.
 - `us_presidents.csv`: Dataset con información de presidentes de EE.UU. (debes agregarlo).
 - `README.md`: Descripción general del proyecto.
+- `README_colab.md`: Descripción general del proyecto.
 
 ## 📊 Objetivo
 
@@ -41,12 +42,12 @@ pip install jupyter pandas matplotlib seaborn
 
 3. Abre el notebook:
 ```bash
-jupyter notebook analisis_presidentes_eeuu.ipynb
+jupyter notebook ProyectoDS_Parte_l_Fernandez.ipynb
 ```
 
 ## 🧾 Notas
 
-Este proyecto es la primer entrega del proyecto final del curso "Data Science I".
+Este proyecto es la primer entrega del proyecto final del curso "Data Science I". Y puede ser una base para investigaciones futuras sobre liderazgo político y dinámica partidaria en EE.UU
 
 ---
 
