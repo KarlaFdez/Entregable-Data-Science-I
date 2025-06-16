@@ -7,7 +7,7 @@ Este proyecto analiza datos históricos de los presidentes de Estados Unidos, en
 - `ProyectoDS_Parte_l_Fernandez.ipynb`: Notebook con análisis completo.
 - `us_presidents_2.csv`: Dataset con información de presidentes de EE.UU. (debes agregarlo).
 - `README.md`: Descripción general del proyecto.
-- `READM_colabE.md`: Descripción general del proyecto con liga para abrirse directo en colab.
+- `README_colab.md`: Descripción general del proyecto con liga para abrirse directo en colab.
 
 ## 📊 Objetivo
 
