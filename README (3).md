@@ -40,7 +40,7 @@ pip install jupyter pandas matplotlib seaborn
 
 3. Abre el notebook:
 ```bash
-jupyter notebook analisis_presidentes_eeuu.ipynb
+jupyter notebook ProyectoDS_Parte_l_Fernandez.ipynb
 ```
 
 ## 🧾 Notas
