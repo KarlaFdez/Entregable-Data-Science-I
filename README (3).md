@@ -1,18 +1,19 @@
-# 🇺🇸 Análisis de Presidentes de Estados Unidos
+# Análisis de Presidentes de Estados Unidos
 
-Este repositorio contiene un análisis exploratorio de datos históricos sobre los presidentes de Estados Unidos.
+Este proyecto analiza datos históricos de los presidentes de Estados Unidos, enfocándose en variables como el partido político, duración del mandato y el cargo previo al asumir la presidencia. El objetivo es comprender los patrones históricos, la influencia del cargo previo sobre la duración en el poder y la distribución de partidos a lo largo del tiempo.
 
 ## 📁 Contenido
 
-- `analisis_presidentes_eeuu.ipynb`: Notebook con análisis completo.
-- `us_presidents.csv`: Dataset con información de presidentes de EE.UU. (debes agregarlo).
+- `ProyectoDS_Parte_l_Fernandez.ipynb`: Notebook con análisis completo.
+- `us_presidents_2.csv`: Dataset con información de presidentes de EE.UU. (debes agregarlo).
 - `README.md`: Descripción general del proyecto.
+- `READM_colabE.md`: Descripción general del proyecto con liga para abrirse directo en colab.
 
 ## 📊 Objetivo
 
-El objetivo principal es explorar la relación entre la duración del mandato presidencial, el partido político y el cargo previo de cada presidente.
+El objetivo principal es explorar la relación entre la duración del mandato presidencial, el partido político y el cargo previo de cada presidente. Así como, comprender los patrones históricos, la influencia del cargo previo sobre la duración en el poder y la distribución de partidos a lo largo del tiempo.
 
-Se busca responder preguntas como:
+Responder preguntas como:
 
 - ¿Qué partidos han dominado históricamente?
 - ¿Qué cargos previos son más comunes entre los presidentes?
@@ -25,7 +26,7 @@ Se busca responder preguntas como:
 - **Visualizaciones bivariadas**: Boxplot de duración por partido.
 - **Visualización multivariada**: Dispersión de duración vs. cargo previo vs. partido.
 
-## 🚀 Cómo usar
+## 🚀 Cómo usar en otros usuarios / equipos:
 
 1. Clona este repositorio:
 ```bash
@@ -44,8 +45,8 @@ jupyter notebook analisis_presidentes_eeuu.ipynb
 
 ## 🧾 Notas
 
-Este proyecto es educativo y puede servir como base para estudios de historia política o ciencia de datos aplicada al análisis político.
+Este análisis proporciona una base para comprender cómo la experiencia política y la afiliación partidaria han influido en la permanencia en el poder presidencial en EE.UU.
 
 ---
 
-Desarrollado por: [Tu Nombre]
+Desarrollado por: Karla Fernández
